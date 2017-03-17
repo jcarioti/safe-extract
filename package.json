@@ -1,6 +1,6 @@
 {
   "name": "squeeze-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Safe property extraction helper for Javascript objects",
   "main": "src/lib.js",
   "scripts": {

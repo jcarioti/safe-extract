@@ -1,6 +1,6 @@
 module.exports = function (obj, squeeze) {
   try {
-    return func(squeeze);
+    return squeeze(obj);
   } catch (e) {
     return undefined;
   }
